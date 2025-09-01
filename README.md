@@ -1,1 +1,1 @@
-# grid-wireframe-practice
+This project utilizes the grid layout to imitate and render a mobile wireframe model, combining CSS and HTML.
